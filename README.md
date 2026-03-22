@@ -52,4 +52,4 @@ Desenvolver uma cartilha de segurança digital que auxilie pequenas empresas a p
 ---
 
 ##  Status do Projeto
-Em desenvolvimento 🚧
+Em desenvolvimento 

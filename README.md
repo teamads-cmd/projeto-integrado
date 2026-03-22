@@ -1,18 +1,18 @@
-# Projeto Integrador - Segurança Digital
+# Projeto Integrado - Segurança Digital
 
-## 📌 Descrição do Projeto
+##  Descrição do Projeto
 Este projeto tem como objetivo o desenvolvimento de uma cartilha de segurança digital voltada para pequenas empresas, com foco em uma agência de turismo.
 
 A proposta é apresentar orientações simples e práticas para proteção de dados, prevenção de ataques virtuais e conscientização sobre segurança da informação.
 
 ---
 
-## 🎯 Objetivo Geral
+##  Objetivo Geral
 Desenvolver uma cartilha de segurança digital que auxilie pequenas empresas a proteger seus dados e evitar riscos digitais, com base nos princípios da LGPD.
 
 ---
 
-## ✅ Objetivos Específicos
+##  Objetivos Específicos
 - Identificar ameaças digitais comuns
 - Explicar boas práticas de segurança
 - Apresentar medidas preventivas acessíveis
@@ -20,7 +20,7 @@ Desenvolver uma cartilha de segurança digital que auxilie pequenas empresas a p
 
 ---
 
-## 📂 Escopo do Projeto
+##  Escopo do Projeto
 
 ### Inclui:
 - Criação de uma cartilha digital (PDF)
@@ -35,21 +35,21 @@ Desenvolver uma cartilha de segurança digital que auxilie pequenas empresas a p
 
 ---
 
-## 👥 Integrantes do Grupo
-- (Nome 1)
-- (Nome 2)
-- (Nome 3)
-- (Nome 4)
-- (Nome 5)
-- (Nome 6)
-- (Nome 7)
+##  Integrantes do Grupo
+- Kauany Deamo Vasconcelos
+- Gustavo de Souza Geronimo
+- Julia Costa Borges
+- Larissa Aparecida Ferreira Marins 
+- Vinícius Lucena dos Santos
+- Jessé Santos de Araújo
+- Nicolas Nunes
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - A definir
 
 ---
 
-## 📅 Status do Projeto
+##  Status do Projeto
 Em desenvolvimento 🚧
